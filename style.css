@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+.title{
+  background: black;
+  padding: 20px;
+  font-size: 24px;
+
+}
+.message{
+  float: right;
+  width: 40%;
+}
+.control{
+  margin: 30px;
+}
+button{
+  margin: 10px;
+  padding: 15px;
+  font-size: 16px;
+  border-radius: 5px;
+  background: white;
+  outline: none;
+  /*color:rgb(250, 83, 0);*/
+}
+#up{
+
+}
